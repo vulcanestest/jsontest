@@ -2,12 +2,12 @@
   "spec": [
     {
       "playerImage": "https://cdn.discordapp.com/attachments/783722312822292570/1082344518633922701/default.png",
-      "averageDamage": "2500",
-      "averageKills": "8",
-      "averageHealing": "1500",
-      "killRank": "1",
-      "damageRank": "2",
-      "healingRank": "3"
+      "averageDamage": "1500",
+      "averageKills": "7",
+      "averageHealing": "2500",
+      "killRank": "2",
+      "damageRank": "3",
+      "healingRank": "4"
     }
 
   ]
